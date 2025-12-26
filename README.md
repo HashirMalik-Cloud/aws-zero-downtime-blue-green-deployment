@@ -70,7 +70,6 @@ Screenshots and video evidence are included.
 
 ## 🧰 Tools & Services Used
 
-- AWS EC2
 - Application Load Balancer (ALB)
 - Auto Scaling Groups
 - Target Groups
